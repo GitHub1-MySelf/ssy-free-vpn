@@ -1,7 +1,7 @@
 
-## ssy免费VPN节点，公益VPN，随时使用
+## ssy免费订阅地址，复制即用，不限流量不限速
 
-### 订阅地址
+### 固定订阅地址（不更新，复制一直用）
 
 ```
 https://shangsuyun.com/subscription/get?subscribeUuid=b32eb033-8d81-4290-ae83-244a4dff67cd
