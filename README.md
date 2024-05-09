@@ -13,3 +13,6 @@ https://shangsuyun.com/subscription/get?subscribeUuid=b32eb033-8d81-4290-ae83-24
 3. Windows 客户端推荐：https://github.com/2dust/v2rayN/releases 支持Windows，相对比较难上手。
 4. 安卓客户端推荐：https://github.com/2dust/v2rayNG
 5. IOS客户端推荐V2Box和ShadowRocket（俗称小火箭??），需要外国区的Apple ID下载。
+
+
+## 最后求一个Star，球球了
